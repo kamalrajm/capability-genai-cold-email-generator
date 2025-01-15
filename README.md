@@ -1,0 +1,1 @@
+# capability-genai-cold-email-generator
